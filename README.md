@@ -1,5 +1,5 @@
-
-<img src="https://github.com/konerunatwar/Making-ML-App-With-Fast-API-And-No-CodeAPP-Using-Bravo-studios/blob/main/ezgif-4-3be53d94f2de.gif" width="200" height="400" />
+# App Demo
+<img src="https://github.com/konerunatwar/Making-ML-App-With-Fast-API-And-No-CodeAPP-Using-Bravo-studios/blob/main/ezgif-4-3be53d94f2de.gif" width="200" height="400" />     <img src="https://github.com/konerunatwar/Making-ML-App-With-Fast-API-And-No-CodeAPP-Using-Bravo-studios/blob/main/ezgif-4-81f1fca29a49.gif" width="200" height="400" />     <img src="https://github.com/konerunatwar/Making-ML-App-With-Fast-API-And-No-CodeAPP-Using-Bravo-studios/blob/main/ezgif-4-9e22bd9d1fb1.gif" width="200" height="400" />
 
 # What You Need
 1. Your ML Model (Pickle File)
