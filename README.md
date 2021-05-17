@@ -1,12 +1,12 @@
 # What You Need
 1. Your ML Model (Pickle File)
 2. Create a Fast API
-3. Deploy API to Heroku (This step is free {https://www.heroku.com/home})
-4. Create a figma account (This step is free {https://www.figma.com})
-5. Create a bravostudio account (This step is free for 15 days but requires credit card {https://www.bravostudio.app})
-6. Create a AirTable account (This step is free {https://airtable.com})
+3. Deploy API to Heroku (This step is free https://www.heroku.com/home)
+4. Create a figma account (This step is free https://www.figma.com)
+5. Create a bravostudio account (This step is free for 15 days but requires credit card https://www.bravostudio.app)
+6. Create a AirTable account (This step is free https://airtable.com)
 
-# Steps
+# Steps 1: Creating an API
 first create an Fast API(See File app.py)
 * You need to create a airtable account
 * Then click on add a base then select start from scratch
@@ -34,8 +34,32 @@ first create an Fast API(See File app.py)
 
   ![adasd](https://user-images.githubusercontent.com/56246430/118489633-ad651080-b73a-11eb-9fd2-fdde70d4a622.PNG)
   
- * Now get you post api,key, and data form 
+ * Now get you post API and API Key and paste it in app.py
   
   ![133123](https://user-images.githubusercontent.com/56246430/118490931-1ef18e80-b73c-11eb-86e9-4af357ff437b.PNG)
+  
+* We are ready to deploy the API to heroku 
+ * Upload the files to Github
+ * Use this video to uplode the api file to heroku(https://www.youtube.com/watch?v=H7zAJf20Moc)
 
+# Step 2: Design an app in Figma using bravo studio
+
+* I am giving you the link to my app design (https://www.figma.com/file/HtkalFdmkhwqKqzZJmLBvj/HydRent?node-id=0%3A1)
+* You need to use your credit card to use POST feature it is free for 15 days  
+* Here are the tags for bravo studio (https://www.notion.so/Bravo-Tags-Master-List-145bec845f0b4afaa9e3bb8321b218a8)
+
+# Step 3: Create a Database in bravo studio
+
+* select post and past your api
+* use https:api.com/docs to get your body
+  ![adadsada](https://user-images.githubusercontent.com/56246430/118497170-72ff7180-b742-11eb-9751-ecdb9da671b1.PNG)
+* paste the body,JSON in bravo studio
+* ![eqweq](https://user-images.githubusercontent.com/56246430/118496737-084e3600-b742-11eb-9302-774f67c87afb.PNG)
+* If String "${property_size}"
+* if Number ${property_size}
+* Importent: all ways  use device ID as same 
+* You can test the API by giving parameters keep thekeys same as in body
  
+  ![ssASas](https://user-images.githubusercontent.com/56246430/118498052-40a24400-b743-11eb-8cb6-4234d04b9d3f.PNG)
+ 
+ * Now you can use this api for your app
