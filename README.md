@@ -57,7 +57,7 @@ first create an Fast API(See File app.py)
 # Step 3: Create a Database in bravo studio
 
 * select post and past your api
-* use https:api.com/docs to get your body
+* use https:yourAPI/docs to get your body
   ![adadsada](https://user-images.githubusercontent.com/56246430/118497170-72ff7180-b742-11eb-9751-ecdb9da671b1.PNG)
 * paste the body,JSON in bravo studio
 * ![eqweq](https://user-images.githubusercontent.com/56246430/118496737-084e3600-b742-11eb-9302-774f67c87afb.PNG)
