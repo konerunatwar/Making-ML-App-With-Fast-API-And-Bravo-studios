@@ -1,8 +1,5 @@
 
-
-
-![ezgif-4-81f1fca29a49](https://user-images.githubusercontent.com/56246430/118502470-5ca7e480-b747-11eb-9043-f9425babf150.gif)
-
+<img src="https://github.com/konerunatwar/Making-ML-App-With-Fast-API-And-No-CodeAPP-Using-Bravo-studios/blob/main/ezgif-4-3be53d94f2de.gif" width="200" height="400" />
 
 # What You Need
 1. Your ML Model (Pickle File)
