@@ -45,6 +45,7 @@ first create an Fast API(See File app.py)
 # Step 2: Design an app in Figma using bravo studio
 
 * I am giving you the link to my app design (https://www.figma.com/file/HtkalFdmkhwqKqzZJmLBvj/HydRent?node-id=0%3A1)
+  ![qeqeqe](https://user-images.githubusercontent.com/56246430/118501458-60873700-b746-11eb-81c5-2e352dbea94b.PNG)
 * You need to use your credit card to use POST feature it is free for 15 days  
 * Here are the tags for bravo studio (https://www.notion.so/Bravo-Tags-Master-List-145bec845f0b4afaa9e3bb8321b218a8)
 
